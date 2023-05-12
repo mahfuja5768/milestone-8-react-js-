@@ -1,0 +1,37 @@
+.card{
+    height: 530px;
+    width: 350px;
+    background-color: #f5c6d6;
+    border-radius: 10px;
+    position: relative;
+}
+.card img{
+    height: 200px;
+    width: 324px;
+    border-radius: 18px;
+    justify-content: center;
+    padding: 15px 0;
+    padding-left: 13px;
+}
+
+.card-info{
+    margin: 0 20px;
+}
+.card-name{
+    font-size: 25px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    margin-top: 0px;
+}
+.card-info p{
+    margin-bottom: 0;
+    margin-top: 3px;
+}
+
+.card-btn{
+    position: absolute;
+    bottom: 0;
+}
+.card-btn:hover{
+    background-color: paleturquoise;
+}

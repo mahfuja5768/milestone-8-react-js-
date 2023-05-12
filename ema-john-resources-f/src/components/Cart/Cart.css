@@ -1,0 +1,33 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+
+.cart h2{
+    text-align: center;
+}
+
+.btn-1, .btn-2{
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 232px;
+    height: 45px;
+    padding: 15px 20px;
+    font-size: 21px;
+}
+
+.btn-1 p, .btn-2 p{
+    margin-right: 10px;
+}
+
+.btn-1{
+    background: #FF3030;
+    margin-bottom: 10px;
+}
+
+.btn-2{
+    background: #FF9900;
+}

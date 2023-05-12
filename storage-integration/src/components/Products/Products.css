@@ -1,0 +1,12 @@
+.products{
+    
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.delete-btn{
+    background-color: rgb(255, 141, 1); 
+     color: white;
+}

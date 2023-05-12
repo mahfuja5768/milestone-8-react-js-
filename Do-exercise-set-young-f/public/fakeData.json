@@ -1,0 +1,50 @@
+[
+  {
+    "id": "645b89310ebf877d752f04b8",
+    "picture": "/src/components/images/cycling.jpg",
+    "name": "Cycling",
+    "description": "Cycling, also, when on a two-wheeled bicycle, called bicycling or biking, is the use of cycles for transport, recreation, exercise or sport.",
+    "for_age": 23,
+    "time_require": 13
+  },
+  {
+    "id": "645b8931ec67f1e72e8af833",
+    "picture": "/src/components/images/swimming.jpg",
+    "name": "Swimming",
+    "description": "Swimming is the self-propulsion of a person through water, or other liquid, usually for recreation, sport, exercise, or survival.",
+    "for_age": 35,
+    "time_require": 17
+  },
+  {
+    "id": "645b8931a4dc4425fc9493a2",
+    "picture": "/src/components/images/walking.jpg",
+    "name": "Walking",
+    "description": "Walking is one of the main gaits of terrestrial locomotion among legged animals. Walking is typically slower than running and other gaits.",
+    "for_age": 22,
+    "time_require": 12
+  },
+  {
+    "id": "645b8931ec6ed006d5172d30",
+    "picture": "/src/components/images/squats.jpg",
+    "name": "Squats",
+    "description": "A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up.",
+    "for_age": 29,
+    "time_require": 27
+  },
+  {
+    "id": "645b8931109aa544b5994320",
+    "picture": "/src/components/images/running.jpg",
+    "name": "Running",
+    "description": "Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot.",
+    "for_age": 30,
+    "time_require": 25
+  },
+  {
+    "id": "645b8931109aa544b5094320",
+    "picture": "/src/components/images/pushUp.jpg",
+    "name": "Pushups",
+    "description": "The push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, ",
+    "for_age": 30,
+    "time_require": 25
+  }
+]

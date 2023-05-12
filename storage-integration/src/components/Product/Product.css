@@ -1,0 +1,14 @@
+.product{
+    border: 2px solid rgb(65, 215, 39);
+    border-radius: 10px;
+    background-color: rgb(255, 141, 1);
+    color: white;
+    padding: 20px;
+}
+
+.aside{
+    display: flex;
+}
+.aside button{
+    margin-left: 5px;
+}

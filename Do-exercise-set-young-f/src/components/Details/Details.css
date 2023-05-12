@@ -1,0 +1,83 @@
+.details{
+    position: sticky;
+    top: 0;
+    padding: 50px ;
+    font-size: 20px;
+}
+
+.user-info{
+    display: flex;
+    align-items: center;
+}
+.user-info p{
+    margin: 0;
+}
+.user-info img{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+}
+.user-info .text{
+    margin-left: 10px;
+}
+
+.user-physical-info{
+    display: flex;
+    align-items: center;
+}
+
+.user-physical-info{
+    background-color: #f4f2f3;
+    margin: 50px 0;
+    padding: 20px 10px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+.user-physical-info p{
+    margin: 7px;
+}
+
+
+
+.weight, .height , .age{
+    margin-left: 35px;
+    font-size: 23px;
+}
+
+.break-time{
+    background-color: #f4f2f3;
+    margin: 50px 0;
+    border-radius: 15px;
+    text-align: center;
+}
+.break-time button{
+    margin-top: 20px;
+     width: 60px;
+     height: 60px;
+     border-radius: 25px;
+     background-color: #f5c6d6;
+     text-align: center;
+}
+
+.timing-part{
+    margin-bottom: 50px;
+}
+
+.ex-time-display, .break-time-display{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4f2f3;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.ex-time-display{
+    margin-bottom: 20px;
+}
+
+.complete-btn{
+    width: 100%;
+    margin-left: 0;
+}
